@@ -1,0 +1,21 @@
+{
+    "memo": "107e5885be436c7a139aed6b88659158301b5e7bf8280355942cfd9752ba09c0",
+    "projects": [
+        {
+            "name": "github.com/go-sql-driver/mysql",
+            "branch": "master",
+            "revision": "1a676ac6e4dce68e9303a1800773861350374a9e",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "google.golang.org/appengine",
+            "version": "v1.0.0",
+            "revision": "150dc57a1b433e64154302bdc40b6bb8aefa313a",
+            "packages": [
+                "cloudsql"
+            ]
+        }
+    ]
+}

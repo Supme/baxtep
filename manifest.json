@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "github.com/go-sql-driver/mysql": {
+            "branch": "master"
+        }
+    }
+}
